@@ -234,6 +234,7 @@ margin-bottom: 72px;
 .section-title {
 max-width: 162px;
 margin: 0 auto 70px auto;
+margin-bottom: 72px;
 }
 
 .wrip {
@@ -250,4 +251,5 @@ padding-bottom: 120px;
 
 .team-photo {
     background-color: #fff;
+    border-radius: 0px 0px 4px 4px;
 }
