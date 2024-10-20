@@ -242,7 +242,7 @@ display: flex;
 flex-wrap: wrap;
 gap: 48px 24px;
 }
-.portfolio {
+.portfolio {margin-bottom: 16px;margin-bottom: 16px;margin-bottom: 16px;
 background-color: #fff;
 padding-top: 120px;
 padding-bottom: 120px;
@@ -251,4 +251,7 @@ padding-bottom: 120px;
 .team-photo {
     background-color: #fff;
     border-radius: 0px 0px 4px 4px;
+}
+.logo-footer {
+    margin-bottom: 16px;
 }
